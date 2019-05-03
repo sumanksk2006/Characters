@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Simpsons Character Viewer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Simpsons Character Viewer.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>The Wire Character Viewer.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B0034DFB22052096002EE1BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B0034E0F22052098002EE1BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B0034E1A22052098002EE1BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B05DB4B72209F63900BFF698</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
